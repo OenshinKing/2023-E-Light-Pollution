@@ -1,1 +1,9 @@
 /Article.zip
+
+*.log
+
+*.toc
+
+*.synctex.gz
+
+*.aux

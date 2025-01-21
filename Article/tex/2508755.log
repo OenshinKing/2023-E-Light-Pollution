@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.7)  21 JAN 2025 21:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.7)  21 JAN 2025 23:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -324,25 +324,25 @@ File: ../pictures/1 Introduction/1 satellite data.jpg Graphic file (type jpg)
 <use ../pictures/1 Introduction/1 satellite data.jpg>
 Package pdftex.def Info: ../pictures/1 Introduction/1 satellite data.jpg  used on input line 8.
 (pdftex.def)             Requested size: 509.87378pt x 227.67728pt.
-) (../section/2 Assumptions and Justifications.tex) (../section/References.tex [3 <../pictures/1 Introduction/1 satellite data.jpg>]) [4] (./2508755.aux)
+) (../section/2 Assumptions and Justifications.tex) (../section/3 Notations.tex) (../section/4 Light Pollution Risk Level Metrics.tex [3 <../pictures/1 Introduction/1 satellite data.jpg>]) (../section/References.tex [4]) [5] (./2508755.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5231 strings out of 474116
- 84286 string characters out of 5747718
- 1933190 words of memory out of 5000000
- 27531 multiletter control sequences out of 15000+600000
+ 5249 strings out of 474116
+ 84879 string characters out of 5747718
+ 1937190 words of memory out of 5000000
+ 27543 multiletter control sequences out of 15000+600000
  566546 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,11n,68p,819b,319s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 62i,11n,68p,876b,323s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 2508755.pdf (4 pages, 896395 bytes).
+Output written on 2508755.pdf (5 pages, 907457 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 46 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
