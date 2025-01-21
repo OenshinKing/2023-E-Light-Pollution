@@ -1,0 +1,11 @@
+Tongyu Wang, Naoko Kaida, Kosuke Kaida,
+Effects of outdoor artificial light at night on human health and behavior: A literature review,
+Environmental Pollution,
+Volume 323,
+2023,
+121321,
+ISSN 0269-7491,
+https://doi.org/10.1016/j.envpol.2023.121321.
+(https://www-sciencedirect-com-443.webvpn.scut.edu.cn/science/article/pii/S0269749123003238)
+Abstract: The quality of life of human beings has improved tremendously through improved productivity, convenience, safety, and livability due to nighttime lights that illuminate outdoor work, leisure, and mobility. Recently, however, concerns have been growing over outdoor artificial light at night (ALAN) and its effects on human beings as well as ecosystems including animals and plants. This literature review aims to deliver a critical overview of the findings and the areas for future research on the effects of outdoor ALAN on human health and behaviors. Through a narrative literature review, we found that scientific research crucially lacks studies on the effects of outdoor ALAN on human behaviors and health, including social interaction, which may be more widespread compared to what is recognized so far. This review also highlights the importance of investigating the causal and complex relationships between outdoor ALAN, health, and behaviors with sleep as a key mediating factor. We elucidate that outdoor ALAN has both positive and negative effects on human life. Therefore, it is important for societies to be able to access facts and evidence about these effects to plan, agree to, and realize the optimal usage of nighttime lighting that balances its merits and demerits. Researchers in related areas of study must investigate and deliver the science of outdoor ALAN to various stakeholders, such as citizens, policymakers, urban and landscape planners, relevant practitioners, and industries. We believe that our review improves the understanding of outdoor ALAN in relation to human life and contributes to sustainable and thriving societies.
+Keywords: Outdoor artificial light at night; Nighttime lighting; Light pollution; Mental health; Sleep quality; Subjective well-being; Pro-social behavior
